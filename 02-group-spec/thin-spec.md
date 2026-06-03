@@ -55,7 +55,7 @@ Chọn một:
 | Failure | User gửi tin nhắn sai chính tả nặng hoặc không có số tiền. Bot báo: "Mình chưa tìm thấy số tiền, bạn ghi theo mẫu [Số tiền] + [Nội dung] nhé." |
 | Correction | Bot nhận diện "nhận 50k" thành Chi. User chat "sai rồi, là thu". Bot tự động sửa bản ghi gần nhất trên Hub và báo "Đã cập nhật lại thành Thu". |
 
-## 7. Failure mode nguy hiểm nhnhấiiất
+## 7. Failure mode nguy hiểm nhất
 
 ```text
 Nếu user [nhập thiếu/dư số 0 hoặc viết tắt (VD: "500" thay vì "500k")],
